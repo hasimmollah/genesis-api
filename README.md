@@ -1,6 +1,6 @@
 # genesis-api
 
 This api is a boilerplate application, it has 
-## DB2 connectivity
+## database connectivity
 ## downstream call
 ## performant application
